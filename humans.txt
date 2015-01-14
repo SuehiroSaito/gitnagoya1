@@ -24,4 +24,8 @@ vaimax is intresting, by saito
 
 Add Massage -> Happy New Year
 
+<<<<<<< HEAD
 
+=======
+Otoshidama ha mada moraeru? 
+>>>>>>> 96e174945c9ab3f8bb5dce409755b8ea3be4f0d7
